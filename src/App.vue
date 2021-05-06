@@ -5,6 +5,7 @@
     <h1>Hello App!</h1>
     <h1>我是feature</h1>
     <h1>release finish '1.0.0'</h1>
+    <h1>bug-fixed-branch</h1>
     <p>
       <!--使用 router-link 组件进行导航 -->
       <!--通过传递 `to` 来指定链接 -->
